@@ -1,0 +1,4 @@
+A company owns multiple 5-star hotels across India. They have been in the industry for 20 years. Due to strategic moves by other competitors, the company is losing its market and revenue in luxury/business hotels category. 
+Now, the managing director wants to incorporate "Business and Data Intelligence" to regain their market. 
+
+Your task as a data analyst is to work on the sample data provided and create a dashboard to provide them with insights.
